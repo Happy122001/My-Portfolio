@@ -3,7 +3,4 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text]()
-
-### Mobile View
-![alt text](https://github.com/happy122001/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/Happy122001/My-Portfolio/blob/main/images/portfolio/Portfolio.png)
